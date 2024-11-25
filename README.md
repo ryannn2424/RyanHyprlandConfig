@@ -13,6 +13,15 @@ Heres a quick command to install dependencies on Arch:
 sudo pacman -S python3 waybar hyprland hyprpaper rofi-wayland
 ```
 
+### Optional Programs
+- hyprshot
+
+Hyprshot isn't required, but it provides screenshots.
+It's apart of the AUR, so use a helper to install it (e.g. `yay`):
+```base
+yay -S hyprshot
+```
+
 ### Installation
 1. Install the required Programs
 2. Clone this repository
